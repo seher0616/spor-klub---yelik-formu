@@ -1,7 +1,12 @@
 h1{
     text-align: center;
-    color: red;
+    color: red;}
+body{
+    width: 50%;
+    height: 150px;
 }
+
+
 #gs{
     color: yellow;
 }
