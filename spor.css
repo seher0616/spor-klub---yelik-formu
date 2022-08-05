@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: red;
+}
+#gs{
+    color: yellow;
+}
+.başlık1{
+    color: blue;
+}
+.başlık2{
+    color: blue;
+}
+.başlık3{
+    color:blue
+}
+#btnk{
+    background-color: red;
+    border-radius: 10px;
+}
+#btnr{
+    background-color: yellow;
+    border-radius: 10px;
+}
